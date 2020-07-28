@@ -5,3 +5,5 @@
 One major thing I noticed after model deployement through flask is because the algorithm had very few examples to train on , it may not be able to sometime predict using the  context , For example: This movie was not worth it . 
 This can be worked upon by getting more relevant training examples and also getting the lingo according to the geography, where the model is to be implemented , this would help us to rightly optimise our model with the geographical requirement
 
+
+![](https://github.com/NamanBhoj/Movie-Review/blob/master/20200728_204211.gif)
