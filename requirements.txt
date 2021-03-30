@@ -35,7 +35,7 @@ mccabe==0.6.1
 netcat==0.0.1a0
 networkx==2.4
 
-Pygments==2.5.2
+Pygments==2.7.4
 PyJWT==1.7.1
 pylint==2.3.1
 python-dateutil==2.8.1
